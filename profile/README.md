@@ -21,18 +21,16 @@
 
 | Node | |
 | - | - |
-| babel | Compile JavaScript and JSX down to browser-friendly JavaScript, and host JSX CSS processing 
+| babel | Compile JavaScript and JSX down to browser-friendly JavaScript, and host JSX CSS processing plugin |
 | chokidar | Watch the file system for changes |
 | csso | CSS compression |
-plugin. |
-| GraphicsMagick | Image scaling and conversion (If using @nakedjsx/plugin-asset-image)
 | postcss | Compile modern nested CSS into flat CSS |
 | rollup | Produce self-contained JavaScript bundles, idenify inter-file dependencies, and host custom asset import processes |
 | terser | JavaScript compression for production builds of client JavaScript code |
 
 | OS | |
 | - | - |
-| GraphicsMagick | Image scaling and conversion (If using @nakedjsx/plugin-asset-image)
+| GraphicsMagick | Image sourceset scaling and conversion (If using @nakedjsx/plugin-asset-image) |
 
 Where practical, required functionality is implemented directly within NakedJSX.
 
