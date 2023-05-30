@@ -1,4 +1,4 @@
-# NakedJSX
+# npx nakedJSX
 
 NakedJSX is an open-source npx command for generating static websites from JSX. The output is pure HTML and CSS - unless you choose to add your own JavaScript.
 
